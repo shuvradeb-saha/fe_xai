@@ -141,3 +141,7 @@ cython_debug/
 
 # venv
 fe_xai_venv
+
+# Ensure src directory and its contents are not ignored
+!src/
+!src/**
